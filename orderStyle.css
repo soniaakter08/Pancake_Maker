@@ -60,7 +60,7 @@ body {
     gap: 15px;
     margin-bottom: 20px;
     margin-right:10vh;
-    color:#010e0f;
+    color:black;
   }
   
   #filter, #sortBtn {
@@ -116,13 +116,13 @@ body {
   
   /* Status Colors */
   .status-waiting {
-    background-color: rgb(255, 165, 0);
+    background-color: rgb(255, 166, 0);
   }
   .status-delivered {
     background-color: rgb(90, 174, 90);
   }
   .status-ready {
-    background-color:#dd4c9b;
+    background-color:#3a87f2;
 
   }
   
